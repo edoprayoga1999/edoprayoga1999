@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Edo Prayoga</h1>
 <h3 align="center">A passionate Fullstack web developer from Indonesia</h3>
 
-<p align="left"> <a href="https://twitter.com/edoprayoga1999" target="blank"><img src="https://img.shields.io/twitter/follow/edoprayoga1999?logo=twitter&style=for-the-badge" alt="edoprayoga1999" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://bit.ly/Edo_Dev](https://bit.ly/Edo_Dev)
 
 - 💬 Ask me about **React.js, Next.js, Express.js, And Node.js**
