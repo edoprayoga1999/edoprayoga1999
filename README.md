@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edo Prayoga</h1>
 <h3 align="center">A passionate Fullstack web developer from Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/Edo_Dev](https://bit.ly/Edo_Dev)
+- 👨‍💻 All of my projects are available at [https://edoprayoga-dev.vercel.app/](https://edoprayoga-dev.vercel.app/)
 
 - 💬 Ask me about **React.js, Next.js, Express.js, And Node.js**
 
